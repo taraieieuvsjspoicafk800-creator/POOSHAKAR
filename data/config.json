@@ -1,0 +1,29 @@
+{
+  "siteName": "کارگاه پوش",
+  "tagline": "لباس کار و تجهیزات ایمنی، ساخته‌شده برای دوام",
+  "phone": "021-00000000",
+  "telegramChannel": "https://t.me/your_channel",
+  "orderApiUrl": "https://YOUR-WORKER-SUBDOMAIN.workers.dev",
+  "botUsername": "your_bot_username",
+  "shippingCost": 150000,
+  "banner": {
+    "image": "",
+    "headline": "لباسی که تا آخر شیفت کنارتونه",
+    "subtext": "دوخت دوبل، پارچه‌ی مقاوم، تحویل سریع"
+  },
+  "popupOffer": {
+    "enabled": false,
+    "title": "",
+    "text": "",
+    "image": ""
+  },
+  "categories": [
+    { "id": "do-tekke", "label": "دوتکه و مهندسی" },
+    { "id": "sarhami", "label": "سرهمی" },
+    { "id": "ropoosh", "label": "روپوش و اسکراب" },
+    { "id": "yekbar-masraf", "label": "یکبار مصرف" },
+    { "id": "iimeni", "label": "تجهیزات ایمنی" },
+    { "id": "shabrang", "label": "شبرنگ‌دار" },
+    { "id": "sazmani", "label": "ست سازمانی" }
+  ]
+}
