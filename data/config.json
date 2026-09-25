@@ -18,12 +18,33 @@
     "image": ""
   },
   "categories": [
-    { "id": "do-tekke", "label": "دوتکه و مهندسی" },
-    { "id": "sarhami", "label": "سرهمی" },
-    { "id": "ropoosh", "label": "روپوش و اسکراب" },
-    { "id": "yekbar-masraf", "label": "یکبار مصرف" },
-    { "id": "iimeni", "label": "تجهیزات ایمنی" },
-    { "id": "shabrang", "label": "شبرنگ‌دار" },
-    { "id": "sazmani", "label": "ست سازمانی" }
+    {
+      "id": "do-tekke",
+      "label": "دوتکه و مهندسی"
+    },
+    {
+      "id": "sarhami",
+      "label": "سرهمی"
+    },
+    {
+      "id": "ropoosh",
+      "label": "روپوش و اسکراب"
+    },
+    {
+      "id": "yekbar-masraf",
+      "label": "یکبار مصرف"
+    },
+    {
+      "id": "iimeni",
+      "label": "تجهیزات ایمنی"
+    },
+    {
+      "id": "shabrang",
+      "label": "شبرنگ‌دار"
+    },
+    {
+      "id": "sazmani",
+      "label": "ست سازمانی"
+    }
   ]
 }
