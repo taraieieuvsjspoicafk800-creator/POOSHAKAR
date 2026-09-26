@@ -93,7 +93,6 @@
     "id": "p-t6ilg",
     "title": "اورکت پارچه ای خزدار",
     "price": 2400000,
-    "category": "do-tekke",
     "sizes": [
       "XL",
       "2XL",
@@ -107,6 +106,9 @@
     "description": "اقتصادی و بسیار مناسب برای فصول سرد سال",
     "images": [
       "https://raw.githubusercontent.com/taraieieuvsjspoicafk800-creator/POOSHAKAR/main/data/images/p-t6ilg.jpg"
+    ],
+    "categories": [
+      "lebaszemestani"
     ]
   }
 ]
