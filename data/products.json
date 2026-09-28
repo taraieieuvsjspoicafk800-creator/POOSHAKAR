@@ -74,5 +74,23 @@
     ],
     "createdAt": "2026-09-28T23:16:56.257Z",
     "updatedAt": "2026-09-28T23:21:14.300Z"
+  },
+  {
+    "id": "p-65vbf",
+    "title": "کلاه بافتنی اسپرت نیو بالانس",
+    "price": 700000,
+    "categories": [
+      "lebaszemestani"
+    ],
+    "sizes": [],
+    "colors": [
+      "مشکی"
+    ],
+    "description": "کش بافت ، مناسب آقایان و خانم ها",
+    "images": [
+      "https://raw.githubusercontent.com/taraieieuvsjspoicafk800-creator/POOSHAKAR/main/data/images/p-new-mulvnq4ixpy.jpg",
+      "https://raw.githubusercontent.com/taraieieuvsjspoicafk800-creator/POOSHAKAR/main/data/images/p-new-mulvnppm2ts.jpg"
+    ],
+    "createdAt": "2026-09-28T23:27:43.494Z"
   }
 ]
