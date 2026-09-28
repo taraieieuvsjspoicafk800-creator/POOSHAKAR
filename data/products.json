@@ -54,5 +54,23 @@
     "categories": [
       "lebaszemestani"
     ]
+  },
+  {
+    "id": "p-uccj4",
+    "title": "کلاه زمستانی",
+    "price": 450000,
+    "categories": [
+      "lebaszemestani"
+    ],
+    "sizes": [],
+    "colors": [
+      "مشکی",
+      "قهوه ای"
+    ],
+    "description": "تهیه شده با متریال با کیفیت و دوخت عالی . بسیار مناسب برای فصول سرد سال",
+    "images": [
+      "https://raw.githubusercontent.com/taraieieuvsjspoicafk800-creator/POOSHAKAR/main/data/images/p-new-mulv9ubwzzh.jpg"
+    ],
+    "createdAt": "2026-09-28T23:16:56.257Z"
   }
 ]
